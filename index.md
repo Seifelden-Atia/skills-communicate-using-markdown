@@ -14,3 +14,7 @@
 int year = 2025;
 System.out.println(year);
 ```
+
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
